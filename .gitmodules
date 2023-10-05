@@ -1,0 +1,18 @@
+[submodule "1-Object-Detection-in-an-Urban-Environment"]
+	path = 1-Object-Detection-in-an-Urban-Environment
+	url = https://github.com/nbkhuong/1-Object-Detection-in-an-Urban-Environment.git
+[submodule "2-1-3D-Object-Detection"]
+	path = 2-1-3D-Object-Detection
+	url = https://github.com/nbkhuong/2-1-3D-Object-Detection.git
+[submodule "2-2-Sensor-Fusion-and-Object-Tracking"]
+	path = 2-2-Sensor-Fusion-and-Object-Tracking
+	url = https://github.com/nbkhuong/2-2-Sensor-Fusion-and-Object-Tracking.git
+[submodule "3-Scan-Matching-Localization"]
+	path = 3-Scan-Matching-Localization
+	url = https://github.com/nbkhuong/3-Scan-Matching-Localization.git
+[submodule "4-Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles"]
+	path = 4-Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles
+	url = https://github.com/nbkhuong/4-Motion-Planning-and-Decision-Making-for-Autonomous-Vehicles.git
+[submodule "5-Control-and-Trajectories-Traacking-for-Autonomous-Vehicles"]
+	path = 5-Control-and-Trajectories-Traacking-for-Autonomous-Vehicles
+	url = https://github.com/nbkhuong/5-Control-and-Trajectories-Traacking-for-Autonomous-Vehicles.git
