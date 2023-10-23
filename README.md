@@ -28,4 +28,4 @@ $ git clone https://github.com/nbkhuong/Self-Driving-Car-Nanodegree --recursive
 $ git submodule foreach "git checkout master"
 ```
 
-Every submodule has its own build/run instruction described in its README.
+For build/run instruction please refer to the README in each submodule.
