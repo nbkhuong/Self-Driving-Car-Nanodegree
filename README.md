@@ -24,7 +24,7 @@ The content of the nanodegree program consists of the following core courses:
 Clone the project and checkout master branch on each submodule.
 
 ```
-$ git clone https://github.com/huuanhhuynguyen/self-driving-car.git --recursive
+$ git clone https://github.com/nbkhuong/Self-Driving-Car-Nanodegree --recursive
 $ git submodule foreach "git checkout master"
 ```
 
