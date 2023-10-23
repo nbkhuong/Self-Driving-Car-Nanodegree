@@ -2,6 +2,8 @@
 
 This repo is the collection of the projects in the [Self-Driving Car Engineer Nanodegree Program from Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013).
 
+[Certification of Completion](https://graduation.udacity.com/confirm/e/3afb1d66-5bce-11ed-99c8-0fb36c2e7ff8)
+
 The content of the nanodegree program consists of the following core courses:
 
 - Computer Vision
@@ -10,7 +12,6 @@ The content of the nanodegree program consists of the following core courses:
 - Planning (elective module)
 - Control (elective module)
 
-[Certification of Completion](https://graduation.udacity.com/confirm/e/3afb1d66-5bce-11ed-99c8-0fb36c2e7ff8)
 
 ## Course Project Demos
 
